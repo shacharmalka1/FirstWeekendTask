@@ -36,3 +36,25 @@
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   }
+  img {  
+    max-width: 20%;  
+    height: auto;  
+    }  
+    #size-img{
+        max-width: 50%;
+    }
+    main{
+        text-align: center
+    }
+    h2{
+        font-size: 50px;
+    }
+    #navbar{
+        background-color: bisque;
+    }
+    p{
+        font-size: 25px;
+    }
+    li{
+        font-size: 25px;
+    }
